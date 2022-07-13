@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JennJay
-- 👀 I’m interested in web development, javascript, art, UI and UX, and all cool stuff
-- 🌱 I’m currently learning css, html and javascript and whatever else my brain can learn.
-- 💞️ I’m looking to collaborate with other software developers.
+- 👀 I’m a Full Stack Software Engineer with a passion for design and cool code!
+- 🌱 I’m currently building apps and websites for clients and for my potfolio.
+- 💞️ I’m looking to collaborate with other software developers!
 
 
 <!---
