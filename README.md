@@ -1,3 +1,4 @@
+![githubbanner](https://user-images.githubusercontent.com/100803002/178860356-609d92e9-0353-43bf-845f-7d51f86c0792.png)
 
 <h1 align="center">Hi 👋, I'm Jennifer Johnson</h1>
 <h3 align="center">A passionate,creative fullstack Software Engineer</h3>
