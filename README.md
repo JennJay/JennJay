@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **inspiration, collaboration and cool ppl to learn from!**
 
-- 👨‍💻 All of my projects are available at [www.JennJayCode.com](www.JennJayCode.com)
+- 👨‍💻 All of my projects are available at [www.JennJohnCode.com](www.JennJohnCode.com)
 
 - 💬 Ask me about **my journey getting into coding!**
 
